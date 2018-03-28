@@ -1,0 +1,4 @@
+2018-03-28T11:22:06.712Z ERROR   HLFConnectionManager    :fabric-client()          [client-utils.js]: sendPeersProposal - Promise is rejected: Error: chaincode error (status: 500, message: Error installing chaincode code altinn-network:0.16.6(chaincode /var/hyperledger/production/chaincodes/altinn-network.0.16.6 exists))
+    at /home/bjodn/.nvm/versions/node/v8.10.0/lib/node_modules/composer-cli/node_modules/grpc/src/node/src/client.js:554:15 {}$
+2018-03-28T11:22:06.717Z ERROR   HLFConnectionManager    :fabric-client()          [client-utils.js]: sendPeersProposal - Promise is rejected: Error: chaincode error (status: 500, message: Error installing chaincode code altinn-network:0.16.6(chaincode /var/hyperledger/production/chaincodes/altinn-network.0.16.6 exists))
+    at /home/bjodn/.nvm/versions/node/v8.10.0/lib/node_modules/composer-cli/node_modules/grpc/src/node/src/client.js:554:15 {}$
