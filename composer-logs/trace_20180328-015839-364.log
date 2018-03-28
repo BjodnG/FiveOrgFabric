@@ -1,0 +1,8 @@
+2018-03-27T23:58:39.880Z ERROR   HLFConnectionManager    :fabric-client()          [client-utils.js]: sendPeersProposal - Promise is rejected: Error: Failed to deserialize creator identity, err MSP Org1MSP is unknown
+    at /home/bjodn/.npm-global/lib/node_modules/composer-cli/node_modules/grpc/src/node/src/client.js:554:15 {}$
+2018-03-27T23:58:39.881Z ERROR   HLFConnectionManager    :fabric-client()          [client-utils.js]: sendPeersProposal - Promise is rejected: Error: Failed to deserialize creator identity, err MSP Org1MSP is unknown
+    at /home/bjodn/.npm-global/lib/node_modules/composer-cli/node_modules/grpc/src/node/src/client.js:554:15 {}$
+2018-03-27T23:58:39.882Z ERROR   HLFConnectionManager    :fabric-client()          [client-utils.js]: sendPeersProposal - Promise is rejected: Error: chaincode error (status: 500, message: chaincode exists altinn-network)
+    at /home/bjodn/.npm-global/lib/node_modules/composer-cli/node_modules/grpc/src/node/src/client.js:554:15 {}$
+2018-03-27T23:58:39.888Z ERROR   HLFConnectionManager    :fabric-client()          [client-utils.js]: sendPeersProposal - Promise is rejected: Error: chaincode error (status: 500, message: chaincode exists altinn-network)
+    at /home/bjodn/.npm-global/lib/node_modules/composer-cli/node_modules/grpc/src/node/src/client.js:554:15 {}$

@@ -1,0 +1,4 @@
+2018-03-27T23:52:44.318Z ERROR   HLFConnectionManager    :fabric-client()          [client-utils.js]: sendPeersProposal - Promise is rejected: Error: Failed to deserialize creator identity, err MSP Org1MSP is unknown
+    at /home/bjodn/.npm-global/lib/node_modules/composer-cli/node_modules/grpc/src/node/src/client.js:554:15 {}$
+2018-03-27T23:52:44.319Z ERROR   HLFConnectionManager    :fabric-client()          [client-utils.js]: sendPeersProposal - Promise is rejected: Error: Failed to deserialize creator identity, err MSP Org1MSP is unknown
+    at /home/bjodn/.npm-global/lib/node_modules/composer-cli/node_modules/grpc/src/node/src/client.js:554:15 {}$

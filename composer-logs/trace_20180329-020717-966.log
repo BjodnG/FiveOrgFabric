@@ -1,0 +1,8 @@
+2018-03-28T00:07:18.483Z ERROR   HLFConnectionManager    :fabric-client()          [client-utils.js]: sendPeersProposal - Promise is rejected: Error: Failed to deserialize creator identity, err MSP Org1MSP is unknown
+    at /home/bjodn/.npm-global/lib/node_modules/composer-cli/node_modules/grpc/src/node/src/client.js:554:15 {}$
+2018-03-28T00:07:18.484Z ERROR   HLFConnectionManager    :fabric-client()          [client-utils.js]: sendPeersProposal - Promise is rejected: Error: Failed to deserialize creator identity, err MSP Org1MSP is unknown
+    at /home/bjodn/.npm-global/lib/node_modules/composer-cli/node_modules/grpc/src/node/src/client.js:554:15 {}$
+2018-03-28T00:07:18.486Z ERROR   HLFConnectionManager    :fabric-client()          [client-utils.js]: sendPeersProposal - Promise is rejected: Error: chaincode error (status: 500, message: cannot get package for the chaincode to be instantiated (altinn-network:0.16.6)-open /var/hyperledger/production/chaincodes/altinn-network.0.16.6: no such file or directory)
+    at /home/bjodn/.npm-global/lib/node_modules/composer-cli/node_modules/grpc/src/node/src/client.js:554:15 {}$
+2018-03-28T00:07:18.490Z ERROR   HLFConnectionManager    :fabric-client()          [client-utils.js]: sendPeersProposal - Promise is rejected: Error: chaincode error (status: 500, message: cannot get package for the chaincode to be instantiated (altinn-network:0.16.6)-open /var/hyperledger/production/chaincodes/altinn-network.0.16.6: no such file or directory)
+    at /home/bjodn/.npm-global/lib/node_modules/composer-cli/node_modules/grpc/src/node/src/client.js:554:15 {}$
