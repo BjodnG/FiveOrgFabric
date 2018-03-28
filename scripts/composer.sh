@@ -51,6 +51,6 @@ composer network start -c PeerAdmin@byfn-network-org1 -a altinn-network/altinn-n
 #composer network start -c PeerAdmin@byfn-network-org1 -a altinn-network/altinn-network@0.0.1.bna -o #endorsementPolicyFile=endorsement-policy.json -A alice -C alice/admin-pub.pem -A bob -C bob/admin-pub.pem
 
 
-#composer card create -p connection-org1.json -u alice -n tutorial-network -c alice/admin-pub.pem -k alice/admin-priv.pem
+#composer card create -p connection-org1.json -u alice -n altinn-network -c alice/admin-pub.pem -k alice/admin-priv.pem
 
-#composer card import -f alice@tutorial-network.card
+#composer card import -f alice@altinn-network.card
